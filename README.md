@@ -37,3 +37,10 @@ contraseña: admin123
 
 
 Proyecto realizado en el ide de Netbeans
+
+
+
+
+
+
+Pueden mejorarse algunos procesos mediante el uso de Principios Solid para que el codigo este mas limpio, sin embargo en general buen proyecto
